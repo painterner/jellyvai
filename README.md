@@ -1,7 +1,8 @@
 # jellyvai
 
 A place to explore ai workflow
-![Uploading 屏幕截图 2025-03-11 073320.png…]()
+
+![](屏幕截图%202025-03-11%20073320.png)
 
 
 ## video generation
